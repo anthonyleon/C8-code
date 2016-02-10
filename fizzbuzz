@@ -13,3 +13,6 @@ end
 (1..100).each do |num|
   print div_i(num)
 end
+
+
+edit
